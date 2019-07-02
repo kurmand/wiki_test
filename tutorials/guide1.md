@@ -1,6 +1,10 @@
+
+![](https://github.com/kurmand/wiki_test/blob/master/tutorials/images/Screen%20Shot%202019-07-01%20at%205.07.50%20PM.png)
+<br/>
+
 ---
 
-![](tutorials/images/Screen Shot 2019-07-01 at 5.07.50 PM.png)
+
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
